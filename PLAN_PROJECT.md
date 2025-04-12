@@ -19,7 +19,7 @@ Projet final pour CS50 – Objectif : Développer une boutique en ligne simple a
 Permettre à un utilisateur de créer un compte, se connecter et se déconnecter.
 
 ### ✅ Tâches :
-- [ ] Initialiser le projet Flask (`app.py`, `templates`, `static`)
+- [*] Initialiser le projet Flask (`app.py`, `templates`, `static`)
 - [ ] Créer la base de données SQLite (`store.db`)
 - [ ] Créer la table `users` avec `username` et mot de passe haché
 - [ ] Créer le formulaire d’inscription (`register.html`)
